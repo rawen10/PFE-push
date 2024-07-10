@@ -1,0 +1,28 @@
+/* DownloadStyles.css */
+
+.download-container {
+    background-color: black;
+    height: 100vh; /* Full screen height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .download-button {
+    background-color: #0078D7; /* Windows Blue */
+    color: white;
+    font-size: 1.5em;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
+  
+  .download-button img {
+    height: 30px;
+    margin-right: 10px; /* Space between the logo and text */
+  }
+  

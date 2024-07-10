@@ -1,0 +1,26 @@
+.profile-container {
+    padding-top: 150px;
+    height: 100vh;
+    background: black; /* Background color */
+    color: white; /* Text color */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+  }
+  
+  .profile-no-user {
+    padding-top: 150px;
+    height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .profile-details {
+    text-align: left; /* Align text to the left */
+    padding: 20px; /* Add padding */
+    border: 1px solid #ccc; /* Border around profile */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
